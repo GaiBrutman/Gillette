@@ -2,7 +2,7 @@
 name = "gillette"
 description = "The best a man can get - a next generation manual page viewer"
 version = "0.1.0"
-authors = ["Gai Brutman"]
+authors = ["Gai Brutman <gai.brutman@gmail.com>"]
 edition = "2018"
 license = "MIT"
 readme = "README.md"
