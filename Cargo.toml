@@ -1,9 +1,10 @@
 [package]
 name = "gillette"
+description = "The best a man can get - a next generation manual page viewer"
 version = "0.1.0"
 authors = ["Gai Brutman"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+readme = "README.md"
 
 [dependencies]
